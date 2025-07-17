@@ -1,4 +1,4 @@
-ame: SonarQube Scan
+name: SonarQube Scan
 on:
   workflow_dispatch:
   #push:
